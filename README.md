@@ -8,4 +8,4 @@ This template already has urls and views implemented for login so when you need 
 
 # Running
 
-This template is just like any other django application so you can run it after setup with 'python3 manage.py makemigrations'
+This template is just like any other django application so you can run it after setup with 'python3 manage.py runserver'
